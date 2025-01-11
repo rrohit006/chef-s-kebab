@@ -1,1 +1,1 @@
-# chef-s-kebab
+***"Chef's Kebab"*** is a website I created while learning HTML, CSS, and JavaScript. I tried my best to portray my thoughts and creativity through this project, designing a beautifully crafted platform for food enthusiasts. The website features a modern layout, responsive design, and interactive elements, showcasing delicious cuisines, exclusive menus, and a refined dining experience that reflects the essence of a premium culinary journey.
